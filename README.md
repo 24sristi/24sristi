@@ -1,5 +1,3 @@
-### Hi there 👋
-### I am
 ![alt text](./top.png)
 <!--
 **24sristi/24sristi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
